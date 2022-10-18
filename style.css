@@ -1,0 +1,27 @@
+body {
+}
+
+header {
+  background-color: #000000;
+}
+
+#logo {
+  height: 150px;
+}
+
+header ul {
+  color: #FFFFFF;
+  display: inline-block;
+  vertical-align: top;
+}
+
+header li a {
+  text-decoration: none;
+  color: #FFFFFF;
+}
+
+header li {
+  display: inline-block;
+  margin: 0px 30px;
+  font-size: 20px;
+}
