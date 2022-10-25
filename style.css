@@ -39,3 +39,13 @@ nav a:active {
   text-transform: uppercase;
   color: red;
 }
+
+.pt1 {
+  width: 48%;
+  display:inline-block;
+  vertical-align: top;
+}
+
+.banda {
+width: 500px;
+}
