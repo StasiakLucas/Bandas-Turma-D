@@ -1,0 +1,83 @@
+body{
+	background-color: #fff;
+	color: black;
+	margin:  0px 20px 1px 20px;
+}
+
+header{
+	background-color: #1d2937;
+	color: whitesmoke;
+}
+
+#logo{
+	width: 10%;
+}
+
+
+header nav{
+	display: inline;
+
+}
+
+header ul {
+  color: #FFFFFF;
+  display: inline-block;
+  vertical-align: top;
+    margin: 63px 0 0 0;
+}
+
+header li a {
+  text-decoration: none;
+  color: #FFFFFF;
+}
+
+header li {
+  display: inline-block;
+  margin: 0px 30px;
+  font-size: 20px;
+}
+
+nav a:hover {
+  color: yellow;
+}
+
+nav a:active {
+  text-transform: uppercase;
+  color: red;
+}
+
+
+p{
+	line-height: 1.5;
+	text-align: justify;
+	font-family: Verdana;
+	text-indent: 50px;
+	font-size: 13px;
+	margin: 0px 5px 0px 5px ;
+
+}
+
+.gunstitulo1{
+	text-align: center;
+	font-family: Arial Black;
+	line-height: 1.5;
+
+}
+
+.imgguns{
+	width: 48%;
+	display: block;
+	margin: auto;
+}
+
+a{
+	text-decoration: none;
+	color: darkblue;
+}
+
+.doisblocos{
+	text-align: center;
+	width: 48%;
+	display: inline-block;
+	vertical-align: top;
+}
