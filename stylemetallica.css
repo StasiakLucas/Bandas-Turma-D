@@ -1,0 +1,107 @@
+
+header {
+    background-color: #000000;
+}
+
+
+#logo {
+  height: 120px;
+}
+
+
+.caixa {
+  position: absolute;
+  top: 30px;
+  right: 40px;
+  display: inline;
+  box-sizing: border-box;
+  border: 1px solid white;
+  border-radius: 10px;
+  
+}
+
+header ul {
+  position: relative;
+  color: #FFFFFF;
+  display: inline-block;
+  vertical-align: top;
+  margin: 10px 10px 10px 10px;
+  text-align: center;
+}
+
+header li a {
+  text-decoration: none;
+  color: #FFFFFF;
+  color: yellow;
+
+}
+
+header li {
+  display: inline-block;
+  margin: 0px 30px;
+  font-size: 20px;
+  text-transform: uppercase;
+
+}
+
+nav a:hover {
+  color: red;
+}
+
+nav a:active {
+  text-transform: uppercase;
+  color: blue;
+}
+
+main{
+  background-color: black;
+
+}
+
+main ul {
+  position: sticky;
+  color: #FFFFFF;
+  display: inline-block;
+  vertical-align: top;
+  margin: 10px 10px 10px 10px;
+  text-align: center;
+}
+
+main li {
+  display: inline-block;
+  margin: 20px 30px;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+
+h1 {
+  font-size: 40px;
+  color: white;
+  text-align: center;
+  padding: 30px;
+}
+
+#integrantes{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.fotos{
+  text-align: center;
+  padding: 40px;
+}
+
+.fotos li:hover{
+  border: 1px solid blue;
+}
+
+footer {
+  background: #dcdcdc;
+  padding: 8px;
+}
+
+.rodape{
+  font-size: 20px;
+  text-align: center;
+}
