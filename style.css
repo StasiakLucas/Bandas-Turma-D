@@ -1,28 +1,38 @@
 body {
 }
 
+
+
 header {
   background-color: #000000;
+  position: relative;
+  height: 180px;
 }
 
 #logo {
   height: 150px;
+  position: absolute;
+  top: 15px;
+  left: 40px
 }
 
 header nav {
   display: inline;
+  position: absolute;
+  right: 0;
+  top: 80px;
 }
 
 header ul {
   color: #FFFFFF;
   display: inline-block;
   vertical-align: top;
-    margin: 63px 0 0 0;
 }
 
 header li a {
   text-decoration: none;
   color: #FFFFFF;
+  text-transform: uppercase;
 }
 
 header li {
@@ -44,8 +54,17 @@ nav a:active {
   width: 48%;
   display:inline-block;
   vertical-align: top;
+  border-radius: 15px;
+  border: 2px solid #000000;
+  height: 468px;
+  margin: 15px 0;
+  padding: 10px;
 }
 
 .banda {
 width: 500px;
+}
+
+#big4 {
+  width: 100%
 }
