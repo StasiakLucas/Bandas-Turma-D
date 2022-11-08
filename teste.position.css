@@ -1,31 +1,26 @@
 .pai {
   background-color: blue;
   height: 500px;
-  position: relative;
-  width: 100%
+
 }
 
 .um {
   background-color: red;
   width: 90%;
   margin-left: 10px;
-  position: absolute;
-  top: 0;
-  right: 0;
+
 }
 
 .dois {
   background-color: yellow;
   width: 90%;
   margin-left: 10px;
+  position: sticky;
+  top: 15px;
 }
 
 .tres {
   background-color: green;
   width: 90%;
   margin-left:10px;
-}
-
-h1 {
-  text-decoration:line-through;
 }

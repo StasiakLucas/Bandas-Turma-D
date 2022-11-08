@@ -7,6 +7,9 @@ body{
 header{
 	background-color: #1d2937;
 	color: whitesmoke;
+	position: sticky;
+	top: 0;
+
 }
 
 #logo{
@@ -80,4 +83,22 @@ a{
 	width: 48%;
 	display: inline-block;
 	vertical-align: top;
+}
+
+.albums {
+	width: 1309px;
+	height: 2000px;
+}
+
+.efeito {
+
+
+}
+
+.imgalbum {
+	height: 225px;
+	width: 225px;
+	position: relative;
+	left: 317px;
+
 }
