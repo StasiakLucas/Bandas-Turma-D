@@ -68,3 +68,37 @@ width: 500px;
 #big4 {
   width: 100%
 }
+
+.lista_horarios {
+  display: inline-block;
+}
+
+.lista_bandas {
+  display: inline-block;
+  border: 8px;
+  border-style: inset;
+  border-radius: 15px;
+  vertical-align: top;
+  height: 500px;
+  width: 400px;
+  margin: 5px;
+}
+
+.lista_bandas h1 {
+  font-size:38px;
+  text-align: center;
+}
+
+.lista_bandas p {
+  color: red;
+  font-size: 20px;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-align: center;
+}
+
+.capa_horario {
+  display: block;
+  height: 300px;
+  margin: auto;
+}
